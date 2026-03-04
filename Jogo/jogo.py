@@ -69,3 +69,4 @@ while personagem.vida > 0 and inimigo.vida > 0:
         print(f"{personagem.nome} derrotou {inimigo.nome}!")
     elif personagem.vida <= 0 and inimigo.vida <= 0:
         print(f"{personagem.nome} e {inimigo.nome} se derrotaram mutuamente!")
+        
