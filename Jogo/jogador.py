@@ -42,4 +42,3 @@ class arqueiro(Jogador):
         print(f"{self.nome} atacou {inimigo.nome} com uma flecha e causou {dano_arqueiro} de dano!", end="\n\n")
 
 
-
